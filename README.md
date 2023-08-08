@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandra Grace Nelson
-- ✨ i'n working as a Trainee Data Scientist at Techvantage Systems Pvt. Ltd.
+- ✨ I'm working as a Trainee Data Scientist at Techvantage Systems Pvt. Ltd.
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Computer Vision
 
